@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachesync",
+        "uuid": 1787850,
+        "checksum": "ddm6u"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
